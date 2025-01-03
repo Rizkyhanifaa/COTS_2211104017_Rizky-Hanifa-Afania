@@ -28,7 +28,7 @@ class Onboarding3 extends StatelessWidget {
             ),
             const Spacer(),
             Image.asset(
-              'images/onboarding2.png', // Ganti dengan gambar lain jika ada
+              'images/onboarding3.png', // Ganti dengan gambar lain jika ada
               height: 200,
             ),
             const SizedBox(height: 20),
